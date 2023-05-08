@@ -1,0 +1,24 @@
+.title{
+    @apply text-white text-base font-bold pl-5 pt-5;
+}
+
+.title1{
+    @apply text-white text-2xl font-bold pl-5 mt-4;
+}
+
+.btn2{
+@apply text-center bg-green-200 py-4 ml-5 mr-16 mt-24;
+}
+
+.btn3{
+  @apply bg-green-200 text-center py-4 px-5 mx-5 mt-24 rounded-lg;
+}
+
+.dedicated{
+ @apply rounded-lg pb-4 bg-purple-100;
+ background-image: url(/image/img21-compressor.webp)
+}
+.prototyping{
+ @apply rounded-lg pb-4 bg-slate-200;
+ background-image: url(/image/img22-compressor.webp)
+}

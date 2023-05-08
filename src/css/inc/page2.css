@@ -1,0 +1,13 @@
+.image{
+background-image: url(/image/home-block-1-compressor-2.webp);
+}
+span{
+    @apply font-extrabold;
+}
+
+.btn1{
+    @apply text-center bg-green-200 py-4 px-4 mx-8 mt-20;
+}
+.pass{
+    @apply pl-9
+}

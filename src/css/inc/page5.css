@@ -1,0 +1,7 @@
+.services{
+  @apply mt-5 bg-white flex py-28 rounded-md text-sm;
+}
+
+.dedicate{
+  @apply mt-2 ml-3 ml-6 font-bold uppercase;
+}

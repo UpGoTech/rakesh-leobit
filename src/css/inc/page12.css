@@ -1,0 +1,49 @@
+.contact_us_container{
+    @apply bg-black py-12 px-4;
+}
+
+.contact{
+    @apply text-2xl text-white text-center font-bold uppercase;
+}
+
+.hrline{
+    @apply h-0.5 bg-green-400 w-[60px];
+} 
+
+.contact_sales{
+    @apply text-white text-center mt-24 text-xl pb-6;
+}
+
+.sales_div{
+    @apply mb-12;
+}
+
+.sales_title{
+    @apply mb-5 leading-5 text-gray-400 font-medium;
+}
+
+
+.container_austin{
+    @apply bg-gray-900;
+}
+.container_austin .austin_box{
+    @apply text-white px-6 py-5;
+}
+.container_austin .austin_title{
+    @apply text-xl leading-4 font-bold;
+}
+.container_austin .austin_subtitle{
+    @apply  text-2xl font-medium pb-1;
+}
+.container_austin .austin_address{
+    @apply text-sm pb-1;
+}
+.container_austin .austin_contact{
+    @apply text-base underline font-bold;
+}
+.container_austin .austin_img{
+    @apply mt-3 relative;
+}
+.austin_img .austin_map{
+    @apply text-white absolute text-xs uppercase bottom-7 font-semibold right-6;
+}

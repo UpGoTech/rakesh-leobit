@@ -1,0 +1,40 @@
+.container_blog{
+    @apply bg-black w-full pt-4 pb-1 px-3;
+}
+
+.ourblock{
+    @apply pt-12 tracking-wider uppercase text-white text-2xl font-bold text-center ;
+}
+
+.line{
+    @apply h-0.5 bg-green-400 w-[60px];
+}
+
+.view_all_btn{
+    @apply text-center mt-4;
+}
+
+.view_btn{
+    @apply uppercase font-bold tracking-wider px-6 py-1 bg-green-600 text-sm text-white rounded-sm;
+}
+
+
+.flutte_main{
+    @apply bg-gray-800 mt-8 pb-7;
+}
+
+.block_para{
+    @apply text-white p-4;
+}
+
+.block_para .mar_apl{
+    @apply text-base mb-4;
+}
+
+.block_para .how_leobit{
+    @apply text-lg mb-4 font-bold;
+}
+
+.block_para .flutter_leobit{
+    @apply text-sm mb-4;
+}

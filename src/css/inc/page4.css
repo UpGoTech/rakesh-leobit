@@ -1,0 +1,6 @@
+.para{
+    @apply text-white text-sm font-bold block pr-16;
+}
+.flexible{
+    @apply w-10 h-auto ml-10;
+}

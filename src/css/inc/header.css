@@ -1,0 +1,15 @@
+header{
+    @apply bg-black text-white px-4 pt-4 pb-2;
+}
+
+nav{
+    @apply relative flex flex-wrap align-middle justify-between;
+}
+ul{
+    @apply p-4 font-bold;
+}
+
+.btn{
+    @apply text-sm mt-5 font-bold text-center border border-solid border-green-500 border-2 py-4;
+}
+
